@@ -1,0 +1,5 @@
+{
+  "name": "task-stats",
+  "owner": { "name": "Facuprz" },
+  "plugins": [{ "name": "task-stats", "source": "./" }]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "task-stats",
+  "version": "0.1.0",
+  "description": "Usage y progreso de la task arriba del prompt, y un panel en vivo con cada subagente",
+  "author": { "name": "Facuprz" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
